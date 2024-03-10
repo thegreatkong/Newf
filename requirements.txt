@@ -1,2 +1,4 @@
 configparser
 IPython
+flask
+gunicorn
